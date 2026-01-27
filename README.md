@@ -30,7 +30,6 @@ Este projeto também compõe meu **portfólio profissional de desenvolvimento we
 - **JavaScript (ES6)**  
 
 ---
----
 
 ## ▶️ Acesso e Execução do Projeto
 
@@ -43,3 +42,8 @@ Caso esteja publicado no GitHub Pages, o projeto pode ser acessado diretamente p
 ```bash
 git clone https://github.com/marcellofellippe/Projeto-Quiz-da-Inclusao.git
 
+## Autor
+
+Marcelo Felipe Andrade de Borba  
+Projeto desenvolvido durante a **Aceleradora Inclusiva 2025**  
+GitHub: https://github.com/marcellofellippe
