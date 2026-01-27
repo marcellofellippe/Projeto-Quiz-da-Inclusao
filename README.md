@@ -1,4 +1,33 @@
-Projeto Quiz da Inclusão (Aceleradora Inclusiva)
-por Marcelo Felipe Andrade de Borba 
-desenvolvimento e programação (Html, css, javascript).
-Projeto de treinamento do javascript Atividade
+# 🧠 Projeto Quiz da Inclusão
+
+Aplicação web interativa desenvolvida com **HTML, CSS e JavaScript**, criada durante a **Aceleradora Inclusiva**, com foco em **educação, inclusão social e acessibilidade**.  
+O projeto utiliza o formato de quiz para promover conscientização sobre diversidade e inclusão de forma simples, intuitiva e acessível.
+
+---
+
+## 🎯 Objetivo
+
+Utilizar a tecnologia como ferramenta de impacto social, incentivando o aprendizado sobre inclusão e acessibilidade por meio de uma experiência interativa.  
+Este projeto também compõe meu **portfólio profissional de desenvolvimento web**.
+
+---
+
+## 🚀 Funcionalidades
+
+- Perguntas exibidas de forma sequencial  
+- Múltipla escolha  
+- Validação de respostas  
+- Sistema de pontuação final  
+- Interface simples, intuitiva e responsiva  
+- Compatível com desktop e dispositivos móveis  
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6)**  
+
+---
+
