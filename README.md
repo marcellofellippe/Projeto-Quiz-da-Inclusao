@@ -30,4 +30,16 @@ Este projeto também compõe meu **portfólio profissional de desenvolvimento we
 - **JavaScript (ES6)**  
 
 ---
+---
+
+## ▶️ Acesso e Execução do Projeto
+
+### 🔗 Acesso Online
+Caso esteja publicado no GitHub Pages, o projeto pode ser acessado diretamente pelo navegador.
+
+### Execução Local
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/marcellofellippe/Projeto-Quiz-da-Inclusao.git
 
