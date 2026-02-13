@@ -1,3 +1,5 @@
+Visualização online https://marcellofellippe.github.io/Projeto-Quiz-da-Inclusao/
+
 # 🧠 Projeto Quiz da Inclusão
 
 Aplicação web interativa desenvolvida com **HTML, CSS e JavaScript**, criada durante a **Aceleradora Inclusiva**, com foco em **educação, inclusão social e acessibilidade**.  
